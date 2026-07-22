@@ -35,32 +35,32 @@ export default function Home() {
 
   // Sample appointment data
   const appointmentData = {
-    merchantRef: "Appointment-20208202360280021-9WQdRvPTtc",
-    slipNo: "20208202360280021",
-    firstName: "TOYBA GUMATA",
-    lastName: "ALI",
+    merchantRef: "Appointment-20267232931271026-9WQdRvPTtc",
+    slipNo: "20267232931271026",
+    firstName: "MURTI KARJUL",
+    lastName: "USMAN",
     nationality: "Ethiopian",
     nationalId: "",
-    gender: "Female",
+    gender: "Male",
     maritalStatus: "Unmarried",
-    countryTraveling: "Saudi Arabia",
-    dateOfBirth: "21/Dec/1995",
-    passportNo: "EP6485695",
-    passportExpiry: "18/May/2026",
+    countryTraveling: "Oman",
+    dateOfBirth: "11/Feb/1992",
+    passportNo: "E00596525",
+    passportExpiry: "12/Jun/2036",
     passportIssuePlace: "Ethiopia",
-    passportIssueDate: "19/May/2021",
-    appliedPosition: "House Maid",
+    passportIssueDate: "13/Jun/2026",
+    appliedPosition: "Public Facilities Cleaner",
     paymentStatus: "PAID",
     amount: "10 USD",
     appointmentType: "Standard",
   };
 
   const medicalCenter = {
-    name: "BETHZATHA HEALTH SERVICES",
+    name: "EWEN INTERNAL MEDICINE SPECIALTY CLINIC",
     address:
-      "Ethiopia, Addis Ababa, kirkos sub city woreda 07, house no. 363-365 addis ababa ethiopia P.O box 55 code 1110",
-    phone: "+251115514141",
-    email: "ermiasm2011@gmail.com",
+      "Ethiopia, Addis Ababa, Kirkos sub city woreda 07, house no. 2332 addis ababa, ethiopia  P.O box 64 code 1101",
+    phone: "+251911523739",
+    email: "drfisshan@yahoo.com",
   };
 
   const handleSearch = () => {
@@ -465,7 +465,7 @@ export default function Home() {
               <div className="flex justify-between items-center text-sm text-gray-600">
                 <div>
                   <p className="font-medium">Generated data</p>
-                  <p>2/Aug/2023</p>
+                  <p>22/Jul/2026</p>
                 </div>
                 <div className="text-right">
                   <p className="text-blue-600 font-medium">
